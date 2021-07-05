@@ -3,7 +3,7 @@ Analyzing Instacart sales patterns to derive insights and suggest strategies for
 
 In this project, I analyzed online grocery store sales data from Instacart to inform a targeted marketing strategy. I combined data sets about orders, products, and (fictional) customers and used Python and the pandas library to uncover information about sales patterns and customer behavior. I also used the matplotlib and seaborn libraries to create some data visualizations. These results were used to answer various business questions and create recommendations regarding marketing strategy.
 
-Breakdown of Instacart Basket Analysis folder:  
+Breakdown of folders:  
 01 Project Management – includes project brief  
 02 Data  
 •	Original Data – includes original data sets  
